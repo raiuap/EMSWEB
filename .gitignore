@@ -30,6 +30,7 @@ build/
 target/
 bin/
 dependency-reduced-pom.xml
+Sandbox/
 
 # Eclipse Project Files
 
